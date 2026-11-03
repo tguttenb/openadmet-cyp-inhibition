@@ -58,7 +58,7 @@ The model families included:
 
 Models were trained independently across applicable combinations of molecular datasets, experimental endpoints, and CYP isoforms. This generated a diverse collection of learned molecular feature spaces, rather than a single representation shared across every prediction task.
 
-![Molecular Representation Architecture](metacoder_architecture (2).png)
+![Molecular Representation Architecture](metacoder_architecture%20%282%29.png)
 
 ### Penultimate-Layer Embedding Extraction
 
